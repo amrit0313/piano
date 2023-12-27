@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#container1{
+    background-color: burlywood;
+    text-align: center;
+    display: flex;
+    
+    align-items: center;
+    height: 100px;
+    width: 30px;
+    background-color: aliceblue;
+    border: 1px solid black;
+    justify-content: center;
+}
